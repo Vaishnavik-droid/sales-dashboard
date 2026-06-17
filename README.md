@@ -101,7 +101,7 @@ A relationship was established between both datasets using the **Order ID** fiel
 
 ### Development View
 
-![Power BI Development View](screenshots/powerbi-development-view.png)
+![Power BI Development View](screenshots/power-bi-development.png)
 
 ---
 
